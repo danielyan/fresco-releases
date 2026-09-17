@@ -4,6 +4,35 @@
         <title>Fresco</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 17 Sep 2026 22:11:45 +0000</pubDate>
+            <link>https://danielyan.github.io/fresco-releases/</link>
+            <sparkle:fullReleaseNotesLink>https://danielyan.github.io/fresco-releases/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Fresco 0.1.0</h2>
+<pre>
+Fresco 0.1.0 — the first release.
+
+A menu-bar app that rotates your desktop wallpaper, from nine sources:
+Unsplash, Pexels, Wallhaven, Wikimedia Commons, DeviantArt, Flickr,
+Reddit, Bing&#x27;s daily image, and any folder on your Mac.
+
+- Rotate on a schedule, or grab the next one from the menu whenever
+- One wallpaper across every display, or a different one per display
+- Bias picks light or dark to match your system appearance
+- Photographer attribution that links back to the original
+- Listings are cached, so browsing spends far fewer API requests
+- Several sources work with no API key at all; the rest take one in Settings
+
+This is the first build delivered through Sparkle — the one that teaches
+Fresco to update itself. From here, new versions arrive in the menu bar.
+</pre>
+]]></description>
+            <enclosure url="https://danielyan.github.io/fresco-releases/Fresco-0.1.0.zip" length="2035778" type="application/octet-stream" sparkle:edSignature="Lc+ZtKPGJLqmmPS+SoCbBYjnnxTgvmocC78q8pixwWChSGQaw7f9MlMCgL0BrCHD/GAwekYJd+9UiLOjLHhyAw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 17 Sep 2026 22:06:06 +0000</pubDate>
             <link>https://danielyan.github.io/fresco-releases/</link>
             <sparkle:fullReleaseNotesLink>https://danielyan.github.io/fresco-releases/</sparkle:fullReleaseNotesLink>
