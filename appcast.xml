@@ -31,26 +31,5 @@ Fresco to update itself. From here, new versions arrive in the menu bar.
 ]]></description>
             <enclosure url="https://danielyan.github.io/fresco-releases/Fresco-0.1.0.zip" length="2035778" type="application/octet-stream" sparkle:edSignature="Lc+ZtKPGJLqmmPS+SoCbBYjnnxTgvmocC78q8pixwWChSGQaw7f9MlMCgL0BrCHD/GAwekYJd+9UiLOjLHhyAw=="/>
         </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Thu, 17 Sep 2026 22:06:06 +0000</pubDate>
-            <link>https://danielyan.github.io/fresco-releases/</link>
-            <sparkle:fullReleaseNotesLink>https://danielyan.github.io/fresco-releases/</sparkle:fullReleaseNotesLink>
-            <sparkle:version>75</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Fresco 0.1.0</h2>
-<pre>
-ci(release): verify the .p12 decodes and unlocks before importing it
-
-security import exits 0 having imported nothing when the file parses but
-carries no bags, so set -e never fires and the real failure appears later as
-a signing error that names neither the file nor the password.
-
-Co-Authored-By: Claude Opus 5 &lt;noreply@anthropic.com&gt;
-</pre>
-]]></description>
-            <enclosure url="https://danielyan.github.io/fresco-releases/Fresco-0.1.0.zip" length="2035813" type="application/octet-stream" sparkle:edSignature="Jv7fll6INfEdNUMCoXExAElgmYchzHfk7eSe+AtaSdWXxxKHqkqnyGJanIUDMvGZQO6B6e9M3mkwiBMD4/AnCg=="/>
-        </item>
     </channel>
 </rss>
