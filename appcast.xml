@@ -3,6 +3,36 @@
     <channel>
         <title>Fresco</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Sat, 26 Sep 2026 01:21:11 +0000</pubDate>
+            <link>https://danielyan.github.io/fresco-releases/</link>
+            <sparkle:fullReleaseNotesLink>https://danielyan.github.io/fresco-releases/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Fresco 0.2.0</h2>
+<pre>
+Fresco 0.2.0 — settings you can keep with your dotfiles.
+
+Fresco&#x27;s settings now live in ~/.config/fresco/config.json, and your
+API keys in ~/.config/fresco/credentials.json (readable only by you).
+Keep them alongside your other configuration and a new Mac can start
+out set up the way you like it.
+
+- Your current settings and keys move over automatically the first
+  time 0.2.0 starts; there is nothing to do
+- Edits to the files are picked up while Fresco is running
+- Sign-ins to DeviantArt and Flickr stay on each Mac, so a new Mac
+  asks you to connect those once
+</pre>
+]]></description>
+            <enclosure url="https://danielyan.github.io/fresco-releases/Fresco-0.2.0.zip" length="2083605" type="application/octet-stream" sparkle:edSignature="BXP3VNfYcrRS3gFTz3ZE48OLLaQ9HTV3ZN2H+XZdvYlm4XxKu4US8BnCfjRCi/dlRDswQZfvk6IbZpOaOPIJCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco80-79.delta" sparkle:deltaFrom="79" length="340646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OumuCPg5x3/BM0xqY1mNOcl8OPxqYlhi5du/Koko/XIbGxCAVEnEYWBe+JB4e5hhgmESSqlrxgPFCo7eM+mMCw=="/>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco80-76.delta" sparkle:deltaFrom="76" length="341410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="02upJHXYraigkzC4iFlgfORX6ZVHHjFYrWV4anmCCQ1lt4IiY6JEY9M2DD5LuXsu8o79UYAWatM08M0ob6WTBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Fri, 25 Sep 2026 21:35:21 +0000</pubDate>
             <link>https://danielyan.github.io/fresco-releases/</link>
