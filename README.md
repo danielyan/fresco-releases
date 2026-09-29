@@ -21,7 +21,7 @@ Served over GitHub Pages at <https://danielyan.github.io/fresco-releases/>.
 ## Installing
 
 <!-- download:begin — rewritten by the release workflow -->
-**[Download Fresco 0.2.0](https://danielyan.github.io/fresco-releases/Fresco-0.2.0.zip)** — macOS 14 or later.
+**[Download Fresco 0.3.0](https://danielyan.github.io/fresco-releases/Fresco-0.3.0.zip)** — macOS 14 or later.
 <!-- download:end -->
 
 Download the newest `Fresco-*.zip`, unzip it, and move `Fresco.app` to
