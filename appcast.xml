@@ -3,6 +3,44 @@
     <channel>
         <title>Fresco</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Wed, 21 Oct 2026 03:38:28 +0000</pubDate>
+            <link>https://danielyan.github.io/fresco-releases/</link>
+            <sparkle:fullReleaseNotesLink>https://danielyan.github.io/fresco-releases/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Fresco 0.4.0</h2>
+<pre>
+Fresco 0.4.0 — mixes, and wallpapers for every display.
+
+- Draw from several sources and categories at once. Tick them in the
+  new Settings → Mix tab, or straight from the Sources menu (hold ⌥ to
+  pick just one). Fresco picks a source at random, then one of its
+  categories
+- Save a mix by name (&quot;Calm&quot;, &quot;Space&quot;) and switch to it from the
+  Sources menu, on any display
+- Each display now keeps its own settings: mix, Light/Dark matching,
+  minimum resolution and more. &quot;Copy to All Displays&quot; shares them
+- Each display keeps its own wallpaper history, too
+- Ultrawide and other unusual screens get photos shaped like them,
+  instead of ones cropped hard to fill. Turn it off, or show the whole
+  photo with matching bars instead of cropping, in Settings → General
+- Displays are recognised reliably across docking, sleep and restarts
+- Unsplash photos are fetched 30 at a time, so you hit its rate limit
+  far less often
+</pre>
+]]></description>
+            <enclosure url="https://danielyan.github.io/fresco-releases/Fresco-0.4.0.zip" length="3165348" type="application/octet-stream" sparkle:edSignature="19tqdwGNhR/O8aovNS04opkeaALTPFEK9RxaLPu6cZcOamHFRPbEv58WoFPQDF5lBXd3+ay62ET89/kBKR8YAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco104-97.delta" sparkle:deltaFrom="97" length="725058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hX7d3NHheCYZxMiYvUgC1IhRbs/gfxlwvazvgl2n5cGocIbW9Tn1E7lADm4fTyNM39T+PXdUspF2XARsN6efAQ=="/>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco104-96.delta" sparkle:deltaFrom="96" length="746046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GHAh+633ETmHSB/62eqCQZHQDlIFQXMevsYO2qfwFH2PD0M9mAlQg5mCIVq8O1BI4wBzjvNwhCeMW7K7MVnPAg=="/>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco104-92.delta" sparkle:deltaFrom="92" length="788126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0vXh4ZmafMZ3/Zb8U7koHBUb9je2Iwi2peyvq/3GQt90nTqrYAUE3Za6tih2+cDgLqIa7abVO4h5FnHXpwhhDQ=="/>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco104-90.delta" sparkle:deltaFrom="90" length="785914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mLGKkTg84YXN1NRpoK/rgbLM6fNdBJWO+uJciiKrJkWcSYIXZvXjfmwZuWwm4Hw+PCNbJVnnPxkOVUHXmjYOCA=="/>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco104-80.delta" sparkle:deltaFrom="80" length="1318534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tLuZAbbVrk6uUglHzThyzRoo8Z5Sat2JeVDKb7xW0bH+3erum67RbGJhYwF/oirUyMJGD6KkiVknYwGdU6shCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.3</title>
             <pubDate>Fri, 09 Oct 2026 13:28:11 +0000</pubDate>
             <link>https://danielyan.github.io/fresco-releases/</link>
@@ -118,36 +156,6 @@ menu bar that follows light and dark mode.
                 <enclosure url="https://danielyan.github.io/fresco-releases/Fresco90-80.delta" sparkle:deltaFrom="80" length="825262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N+ikM5lwnh9m6fjEq+fyxyK9nIZRN+pTWKrZigq4Cuxsim1YxGllTLCI9H/IyE015wLRBk1dKwLVNc6MnOkXCA=="/>
                 <enclosure url="https://danielyan.github.io/fresco-releases/Fresco90-79.delta" sparkle:deltaFrom="79" length="916294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wMRnuGidN0elfLvogrq9c4r0aSnWek3pfQMEkY81O/BCaSUdD+89nDbTt3f8QNrSatJoOJS2/kCNkyO0UjdAAw=="/>
                 <enclosure url="https://danielyan.github.io/fresco-releases/Fresco90-76.delta" sparkle:deltaFrom="76" length="917086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AdjryIyF6PcYBQtMHoDYDytYokEBAIXvkYneXgILOVzzh+jQHrnDXtorZD/ti0QYabEhQOFp5g1CLmCRVEbkAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 26 Sep 2026 01:21:11 +0000</pubDate>
-            <link>https://danielyan.github.io/fresco-releases/</link>
-            <sparkle:fullReleaseNotesLink>https://danielyan.github.io/fresco-releases/</sparkle:fullReleaseNotesLink>
-            <sparkle:version>80</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Fresco 0.2.0</h2>
-<pre>
-Fresco 0.2.0 — settings you can keep with your dotfiles.
-
-Fresco&#x27;s settings now live in ~/.config/fresco/config.json, and your
-API keys in ~/.config/fresco/credentials.json (readable only by you).
-Keep them alongside your other configuration and a new Mac can start
-out set up the way you like it.
-
-- Your current settings and keys move over automatically the first
-  time 0.2.0 starts; there is nothing to do
-- Edits to the files are picked up while Fresco is running
-- Sign-ins to DeviantArt and Flickr stay on each Mac, so a new Mac
-  asks you to connect those once
-</pre>
-]]></description>
-            <enclosure url="https://danielyan.github.io/fresco-releases/Fresco-0.2.0.zip" length="2083605" type="application/octet-stream" sparkle:edSignature="BXP3VNfYcrRS3gFTz3ZE48OLLaQ9HTV3ZN2H+XZdvYlm4XxKu4US8BnCfjRCi/dlRDswQZfvk6IbZpOaOPIJCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco80-79.delta" sparkle:deltaFrom="79" length="340646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OumuCPg5x3/BM0xqY1mNOcl8OPxqYlhi5du/Koko/XIbGxCAVEnEYWBe+JB4e5hhgmESSqlrxgPFCo7eM+mMCw=="/>
-                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco80-76.delta" sparkle:deltaFrom="76" length="341410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="02upJHXYraigkzC4iFlgfORX6ZVHHjFYrWV4anmCCQ1lt4IiY6JEY9M2DD5LuXsu8o79UYAWatM08M0ob6WTBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
