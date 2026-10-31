@@ -3,6 +3,33 @@
     <channel>
         <title>Fresco</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Sat, 31 Oct 2026 02:30:33 +0000</pubDate>
+            <link>https://danielyan.github.io/fresco-releases/</link>
+            <sparkle:fullReleaseNotesLink>https://danielyan.github.io/fresco-releases/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Fresco 0.4.2</h2>
+<pre>
+Fresco 0.4.2
+
+• Update reminders: when a new version is out, a dot appears on the menu-bar icon and &quot;Update Available&quot; at the top of the menu, with a notification if you allow them.
+• Settings → General → Updates: check automatically, install automatically, and Check Now.
+• New shortcuts: ⌃⌥⌘P puts the previous wallpaper back, ⌃⌥⌘S saves the photo on the display under the pointer. Each can be turned off in Settings → Shortcuts.
+• About Photo now appears for every online source, with links to the photo&#x27;s page, its original source, author and license where available.
+</pre>
+]]></description>
+            <enclosure url="https://danielyan.github.io/fresco-releases/Fresco-0.4.2.zip" length="3578749" type="application/octet-stream" sparkle:edSignature="i+mpWfnBggV4Cl5n0gSj5pA7fYhTcGQ/nbUpQEVttW/mJoJnhje3ZlHDNbhhYif896lWc8JR5hfVVE8g+TNjCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco108-106.delta" sparkle:deltaFrom="106" length="627874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eu+E0WgXDpn06F8IpPveYMrc5nsGr9k7osuGjTE56z09pZAsBK6XxXLuQqOV1quzOvbgDVYYhknCoOTZRlItAA=="/>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco108-104.delta" sparkle:deltaFrom="104" length="978702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hNuJ5+2bblIJlTvOtUbpHD0G9QHmmKmAnu7BO1GutqPlzvQ0j9rUmvR/uUnTAE1u+ubGAq6Qbw37KoA33CR6CQ=="/>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco108-97.delta" sparkle:deltaFrom="97" length="1183938" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XASh9wsZO+/S3vMBENhByCy+P+EBHTAjnR4UWJ4Ni0kJN6825GCFpxNUlhJeZWqehV4wUommGPlVA7xrAj31DQ=="/>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco108-96.delta" sparkle:deltaFrom="96" length="1199626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UmdPsyMZLFyLTijsVouELmpFw7UIJeLAi9xrqNr20Jnyq+N1ioUZ+E6qsG76fGKa9MjMN/LmrpFSUH87GAGkCQ=="/>
+                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco108-92.delta" sparkle:deltaFrom="92" length="1230814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iY1h9z2KcsHSbG631CA2Xl99c+gYIQTFDIVKqZGKdjMzLl49wsypK+1vMNqgtG+HAIi9tOG9aY5AWbNLOJRJAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Fri, 30 Oct 2026 21:21:16 +0000</pubDate>
             <link>https://danielyan.github.io/fresco-releases/</link>
@@ -128,33 +155,6 @@ Fresco 0.3.2 — fewer clicks.
                 <enclosure url="https://danielyan.github.io/fresco-releases/Fresco96-80.delta" sparkle:deltaFrom="80" length="902498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G6S+XS1LJrANtU8oNchkwB/GbFQCCBweLWbTGH9JDT8WBn2oJlkriRXh01fljl8shYYfKUMXs9kMB1offcSTCw=="/>
                 <enclosure url="https://danielyan.github.io/fresco-releases/Fresco96-79.delta" sparkle:deltaFrom="79" length="980114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="smVtgBwrfpiAFmGrLEG8WR8QPGzIQ+SIe578p9SkqqmfFbPTfqo14i6eNbmIJjJNR3YNA4hZVNXjir4Q7o1WBw=="/>
                 <enclosure url="https://danielyan.github.io/fresco-releases/Fresco96-76.delta" sparkle:deltaFrom="76" length="980950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jTrM9RqHkUyWoL6stoQd0ND5AM8YvXHep3nV6qKbDBW5wBrVh+JvclVe/bMrktTmSU/y/NAGEou+45cu1ianCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.1</title>
-            <pubDate>Mon, 05 Oct 2026 18:01:42 +0000</pubDate>
-            <link>https://danielyan.github.io/fresco-releases/</link>
-            <sparkle:fullReleaseNotesLink>https://danielyan.github.io/fresco-releases/</sparkle:fullReleaseNotesLink>
-            <sparkle:version>92</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Fresco 0.3.1</h2>
-<pre>
-Fresco 0.3.1 — two fixes.
-
-- Each source remembers its category: switch from Wallhaven to another
-  source and back, and your category is still selected instead of
-  resetting to Featured
-- Back keeps working after Set: applying a previewed wallpaper no
-  longer clears the ones you looked at before it
-</pre>
-]]></description>
-            <enclosure url="https://danielyan.github.io/fresco-releases/Fresco-0.3.1.zip" length="2749081" type="application/octet-stream" sparkle:edSignature="8dkIel9D9m/M/GDTRVTZVzt9i8Gktqm9Y/B/2lYDzJlA5f8FUZTDpXIew7uhPsBldhUP1d7lyo8RDF24qX+sCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco92-90.delta" sparkle:deltaFrom="90" length="205390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FcwdxO/jafWcO5V/0/k52TV9Oajw2jlO1e6Kkf7k0557wPZsDeHi6fYK7eiMSYCr0vHHlNwGAu8mhMmrS5EpBg=="/>
-                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco92-80.delta" sparkle:deltaFrom="80" length="825030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7FAiNeuh5ZfDxQFnL1m+TL4cODSnG8O9+W2fU7KqpNGPthnpMQSjjdnTXX1KS5dU2STe2KExx0/TWb4AZavCBA=="/>
-                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco92-79.delta" sparkle:deltaFrom="79" length="922810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S+16s+CduD/LPzN+AA/AnPBGGKubk3Q/pu5/3GyfYivGO3ziPPxBjEe56GMIt+pF5P7A8CKFB18bBPsDL/pqBw=="/>
-                <enclosure url="https://danielyan.github.io/fresco-releases/Fresco92-76.delta" sparkle:deltaFrom="76" length="922510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979088" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QTOZcN24H8mVLy1u5cLAxPSevakSZcnkbiDdijuNoBRZ6jQ3RERkVWDwiHSFmyagNW/jzmovskevoWasE8fkBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
